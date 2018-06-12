@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Comfortaa');
+
+:root {
+  --font: 'Comfortaa', sans-serif;
+  --primary: #134611;
+}
+
+h1, h5 {
+  color: var(--primary);
+  font-family: var(--font);
+}
