@@ -17,6 +17,10 @@ const treehouses = [
     description: 'A centuries-old majestic oak is home to Suite Bleue, one of two tree houses at La Piantata Bed & Breakfast in Italy’s northern Lazio region. The simple red-cedar building was constructed in France by the Provence-based specialty firm La Cabane Perchée and transported to a sprawling field of lavender on the resort’s estate.',
     contributor: 'Wes'
   },
+  title: 'Trillium TreeHouse',
+  img: 'http://www.treehousepoint.com/images/trillium/trillium-sh-6.jpg',
+  description: 'The Trillium TreeHouse is a part of tree house point in Fall City, Washington. Pete nelson built several tree houses in 2005.',
+  contributor: 'Chris Peterson'
 ]
 
 module.exports = {
