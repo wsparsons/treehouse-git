@@ -18,6 +18,12 @@ const treehouses = [
     contributor: 'Wes'
   },
   {
+    title: 'Whimsical Treehouse',
+    img: 'https://images.custommade.com/-R5iJ5V5jUatt_tYAHsoLj8fxo8=/custommade-photosets/4865/4865.21827.jpg',
+    description: 'Located in Dover, Massachusetts, is nestled 15 feet up in a large old oak tree. The tree house was attached using methods that allow for tree growth and movement. .',
+    contributor: 'Hedim'
+  },
+  {
   title: 'Trillium TreeHouse',
   img: 'http://www.treehousepoint.com/images/trillium/trillium-sh-6.jpg',
   description: 'The Trillium TreeHouse is a part of tree house point in Fall City, Washington. Pete nelson built several tree houses in 2005.',
