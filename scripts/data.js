@@ -17,6 +17,13 @@ const treehouses = [
     description: 'A centuries-old majestic oak is home to Suite Bleue, one of two tree houses at La Piantata Bed & Breakfast in Italy’s northern Lazio region. The simple red-cedar building was constructed in France by the Provence-based specialty firm La Cabane Perchée and transported to a sprawling field of lavender on the resort’s estate.',
     contributor: 'Wes'
   },
+  {
+    title: 'Whimsical Treehouse',
+    img: 'https://images.custommade.com/-R5iJ5V5jUatt_tYAHsoLj8fxo8=/custommade-photosets/4865/4865.21827.jpg',
+    description: 'Located in Dover, Massachusetts, is nestled 15 feet up in a large old oak tree. The tree house was attached using methods that allow for tree growth and movement. .',
+    contributor: 'Hedim'
+  },
+
 ]
 
 module.exports = {
