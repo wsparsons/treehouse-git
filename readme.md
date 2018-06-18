@@ -11,3 +11,5 @@ Project for practicing branching, pulling, and merging with Git and GitHub.
 1. `npm run build`
 
 1. `npm run dev`
+
+This is supposedly going to mess this up! - Chris
