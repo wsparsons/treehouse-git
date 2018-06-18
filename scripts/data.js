@@ -17,6 +17,12 @@ const treehouses = [
     description: 'A centuries-old majestic oak is home to Suite Bleue, one of two tree houses at La Piantata Bed & Breakfast in Italy’s northern Lazio region. The simple red-cedar building was constructed in France by the Provence-based specialty firm La Cabane Perchée and transported to a sprawling field of lavender on the resort’s estate.',
     contributor: 'Wes'
   },
+  {
+    title: 'Star Redwood Treehouse',
+    img: 'https://li2.cdbcdn.com/oh/dcfe6d74-3d68-4363-b6db-e48cf74b35a9.jpg?f=32&w=675&h=364&mode=crop',
+    description: 'Enjoy the sights and sounds of nature while enjoying your morning cup of coffee or evening glass of wine on the private redwood deck. Our Star Treehouse is high in a Cathedral of towering Redwoods, all new pine interior with oak floors, modern tiled bathroom with sink and shower. New Queen bed in the loft bedroom. Wooden canyon view. Nice redwood entry deck to enjoy the peacefulness.',
+    contributor: 'Wendy'
+  }
 ]
 
 module.exports = {
